@@ -1,4 +1,4 @@
-# [MMódulo Boleto Itau Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-itau-magento-2) 
+# [Módulo Boleto Itau Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-itau-magento-2) 
  
 
 [Módulo Boleto Itau Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-itau-magento-2), sem intermediário, integre sua loja magento com o banco Itau de forma fácil e prática.
